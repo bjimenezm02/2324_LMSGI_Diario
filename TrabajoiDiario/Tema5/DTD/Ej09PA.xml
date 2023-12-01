@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<partidos>
+    <partido name = "A">
+        <jornada> 1 </jornada>
+        <equipo_local id = "01">
+            <nombre> Real Madrid </nombre>
+            <entrenador> Carlo Ancelotti </entrenador>
+            <jugadores>
+                <jugador n_camiseta = "1 ">
+                    <nombre> Courtois </nombre>
+                    <posicion> Portero </posicion>
+                </jugador>
+                <jugador n_camiseta = "13">
+                    <nombre> Carvajal </nombre>
+                    <posicion> Lateral </posicion>
+                    <n_tarjetas>
+                        <amarillas> 5 </amarillas>
+                        <rojas> 1 </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "3">
+                    <nombre> Militao </nombre>
+                    <posicion> Central </posicion>
+                    <n_tarjetas>
+                        <amarillas> 2 </amarillas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "6">
+                    <nombre> Nacho </nombre>
+                    <posicion> Central </posicion>
+                    <n_tarjetas>
+                        <rojas> 1 </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "22">
+                    <nombre> Rüdiger </nombre>
+                    <posicion> Lateral </posicion>
+                    <n_tarjetas>
+                        <amarillas> 6 </amarillas>
+                        <rojas> 2 </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "8">
+                    <nombre> Kroos </nombre>
+                    <posicion> Mediapunta </posicion>
+                    <n_tarjetas>
+                        <amarillas> 1</amarillas>
+                        <rojas> 1 </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "12">
+                    <nombre> Camavinga </nombre>
+                    <posicion> Mediocentro </posicion>
+                    <n_tarjetas>
+                        <amarillas> 1 </amarillas>
+                        <rojas> 2 </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "17">
+                    <nombre> Lucas Vázquez </nombre>
+                    <posicion> Extremo </posicion>
+                    <n_tarjetas>
+                        <amarillas> 1 </amarillas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "7">
+                    <nombre> Vinicius </nombre>
+                    <posicion> Extremo </posicion>
+                    <n_tarjetas>
+                        <amarillas> 2 </amarillas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "11">
+                    <nombre> Rodrigo </nombre>
+                    <posicion> Delantero </posicion>
+                </jugador>
+                <jugador n_camiseta = "14">
+                    <nombre> Joselu </nombre>
+                    <posicion> Delantero </posicion>
+                    <n_tarjetas>
+                        <amarillas> 3 </amarillas>
+                    </n_tarjetas>
+                </jugador>
+            </jugadores>
+        </equipo_local>
+        <equipo_visitante id = "02">
+            <nombre> Fútbol Club Barcelona </nombre>
+            <entrenador>Xavi </entrenador>
+            <jugadores>
+                <jugador n_camiseta = "1">
+                    <nombre>Ter Stegen </nombre>
+                    <posicion>portero </posicion>
+                    <n_tarjetas>
+                        <amarillas> 1 </amarillas>                    
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "23">
+                    <nombre>Kounde</nombre>
+                    <posicion> Defensa </posicion>
+                    <n_tarjetas>
+                        <amarillas> 2 </amarillas>
+                        <rojas> 1 </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "3">
+                    <nombre> Balde </nombre>
+                    <posicion> Defensa </posicion>
+                    <n_tarjetas>
+                        <amarillas> 3 </amarillas>
+                        <rojas> 1 </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "4 ">
+                    <nombre> Araujo </nombre>
+                    <posicion> Defensa </posicion>
+                    <n_tarjetas>
+                        <amarillas> 4 </amarillas>
+                        <rojas> 2 </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "20">
+                    <nombre> S. Roberto </nombre>
+                    <posicion> Defensa </posicion>
+                    <n_tarjetas>
+                        <amarillas> 1 </amarillas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "6">
+                    <nombre> Gavi </nombre>
+                    <posicion> Centrocampista </posicion>
+                    <n_tarjetas>
+                        <amarillas> 2 </amarillas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "8">
+                    <nombre> Pedri </nombre>
+                    <posicion> Centrocampista </posicion>
+                </jugador>
+                <jugador n_camiseta = "9">
+                    <nombre> Lewandowski </nombre>
+                    <posicion> Delantero </posicion>
+                    <n_tarjetas>
+                        <amarillas> 2 </amarillas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "11">
+                    <nombre> Raphinha </nombre>
+                    <posicion> Delantero </posicion>
+                    <n_tarjetas>
+                        <amarillas> 2 </amarillas>
+                        <rojas> 1 </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "14">
+                    <nombre> Joäo Félix </nombre>
+                    <posicion> Delantero </posicion>
+                </jugador>
+                <jugador n_camiseta = "27">
+                    <nombre>Lamine</nombre>
+                    <posicion> Delantero </posicion>
+                    <n_tarjetas>
+                        <amarillas> 3 </amarillas>
+                        <rojas> 2 </rojas>
+                    </n_tarjetas>
+                </jugador>
+            </jugadores>
+        </equipo_visitante>
+        <goles>
+            <gol nombre = "Lewandoski">
+                <id_equipo>  02 </id_equipo>
+                <penalty> No </penalty>
+            </gol>
+            <gol nombre = "Rodrigo">
+                <id_equipo>  01 </id_equipo>
+                <penalty> No </penalty>
+            </gol>
+            <gol nombre = "Vinicius">
+                <id_equipo>  01 </id_equipo>
+                <penalty> Si </penalty>
+            </gol>
+            <gol nombre = "Pedri">
+                <id_equipo>  02 </id_equipo>
+                <penalty> No </penalty>
+            </gol>
+        </goles>
+    </partido>
+    <partido name = "B">
+        <jornada> 2 </jornada>
+        <equipo_local id = "02">
+            <nombre> Fútbol Club Barcelona </nombre>
+            <entrenador>Xavi </entrenador>
+            <jugadores>
+                <jugador n_camiseta = "1">
+                    <nombre>Ter Stegen </nombre>
+                    <posicion>portero </posicion>
+                    <n_tarjetas>
+                        <amarillas> 1 </amarillas>                    
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "23">
+                    <nombre>Kounde</nombre>
+                    <posicion> Defensa </posicion>
+                    <n_tarjetas>
+                        <amarillas> 2 </amarillas>
+                        <rojas> 1 </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "3">
+                    <nombre> Balde </nombre>
+                    <posicion> Defensa </posicion>
+                    <n_tarjetas>
+                        <amarillas> 3 </amarillas>
+                        <rojas> 1 </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "4 ">
+                    <nombre> Araujo </nombre>
+                    <posicion> Defensa </posicion>
+                    <n_tarjetas>
+                        <amarillas> 4 </amarillas>
+                        <rojas> 2 </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "20">
+                    <nombre> S. Roberto </nombre>
+                    <posicion> Defensa </posicion>
+                    <n_tarjetas>
+                        <amarillas> 1 </amarillas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "6">
+                    <nombre> Gavi </nombre>
+                    <posicion> Centrocampista </posicion>
+                    <n_tarjetas>
+                        <amarillas> 2 </amarillas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "8">
+                    <nombre> Pedri </nombre>
+                    <posicion> Centrocampista </posicion>
+                </jugador>
+                <jugador n_camiseta = "9">
+                    <nombre> Lewandowski </nombre>
+                    <posicion> Delantero </posicion>
+                    <n_tarjetas>
+                        <amarillas> 2 </amarillas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "11">
+                    <nombre> Raphinha </nombre>
+                    <posicion> Delantero </posicion>
+                    <n_tarjetas>
+                        <amarillas> 2 </amarillas>
+                        <rojas> 1 </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "14">
+                    <nombre> Joäo Félix </nombre>
+                    <posicion> Delantero </posicion>
+                </jugador>
+                <jugador n_camiseta = "27">
+                    <nombre>Lamine</nombre>
+                    <posicion> Delantero </posicion>
+                    <n_tarjetas>
+                        <amarillas> 3 </amarillas>
+                        <rojas> 2 </rojas>
+                    </n_tarjetas>
+                </jugador>
+            </jugadores> 
+        </equipo_local>
+        <equipo_visitante id = "03">
+            <nombre> Real Sociedad </nombre>
+            <entrenador> Imanol </entrenador>
+            <jugadores>
+                <jugador n_camiseta = "1 ">
+                    <nombre> Remiro </nombre>
+                    <posicion> Portero </posicion>
+                </jugador>
+                <jugador n_camiseta = "2">
+                    <nombre> Odriozola </nombre>
+                    <posicion> Lateral </posicion>
+                    <n_tarjetas>
+                        <amarillas> 5 </amarillas>
+                        <rojas> 1 </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "3">
+                    <nombre> Aihen </nombre>
+                    <posicion> Central </posicion>
+                    <n_tarjetas>
+                        <amarillas> 2 </amarillas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "6">
+                    <nombre> Aritz </nombre>
+                    <posicion> Central </posicion>
+                    <n_tarjetas>
+                        <rojas> 1 </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "20">
+                    <nombre> Pacheco </nombre>
+                    <posicion> Lateral </posicion>
+                    <n_tarjetas>
+                        <amarillas> 6 </amarillas>
+                        <rojas> 2 </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "8">
+                    <nombre> Merino </nombre>
+                    <posicion> Mediapunta </posicion>
+                    <n_tarjetas>
+                        <amarillas> 1</amarillas>
+                        <rojas> 1 </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "12">
+                    <nombre> Zakharyan </nombre>
+                    <posicion> Mediocentro </posicion>
+                    <n_tarjetas>
+                        <amarillas> 1 </amarillas>
+                        <rojas> 2 </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "4">
+                    <nombre> Zubimendi Vázquez </nombre>
+                    <posicion> Centrocampista </posicion>
+                    <n_tarjetas>
+                        <amarillas> 1 </amarillas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "7">
+                    <nombre> Barrene </nombre>
+                    <posicion> Extremo </posicion>
+                    <n_tarjetas>
+                        <amarillas> 2 </amarillas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = "9">
+                    <nombre> Carlos Fdez </nombre>
+                    <posicion> Delantero </posicion>
+                </jugador>
+                <jugador n_camiseta = "11">
+                    <nombre> Cho </nombre>
+                    <posicion> Delantero </posicion>
+                    <n_tarjetas>
+                        <amarillas> 3 </amarillas>
+                    </n_tarjetas>
+                </jugador>
+            </jugadores> 
+        </equipo_visitante>
+        <goles>
+            <gol nombre = "Lewandoski">
+                <id_equipo>  02 </id_equipo>
+                <penalty> No </penalty>
+            </gol>
+            <gol nombre = "Cho">
+                <id_equipo>  03 </id_equipo>
+                <penalty> No </penalty>
+            </gol>
+        </goles>
+    </partido>
+</partidos>

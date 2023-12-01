@@ -1,0 +1,5 @@
+<!ELEMENT stock (articulo)*>
+<!ELEMENT articulo (categoria+,precio?)>
+<!ATTLIST articulo codigo CDATA #REQUIRED>
+<!ELEMENT categoria (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!--asocia este XML con su DTD
+externo. Elimina esta línea e incluye lo necesario -->
+
+<!DOCTYPE stock SYSTEM "Ej02.dtd">
+
+<stock>
+  <articulo codigo="13252A">
+    <categoria>Ordenador</categoria>
+    <precio>310.25</precio>
+  </articulo>
+  <articulo codigo="15252A">
+    <categoria>impresora</categoria>
+  </articulo>
+  <articulo codigo="47582A">
+    <categoria>Monitor</categoria>
+    <precio>310.25</precio>
+  </articulo>
+</stock>

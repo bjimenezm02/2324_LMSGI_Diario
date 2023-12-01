@@ -1,0 +1,11 @@
+<!ELEMENT curso ((codigo|(nombre,abreviatura)),fechainicio,alumno*)>
+<!ELEMENT codigo (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT abreviatura (#PCDATA)>
+<!ELEMENT fechainicio (#PCDATA)>
+<!ATTLIST fechainicio dia CDATA #REQUIRED>
+<!ATTLIST fechainicio mes CDATA #REQUIRED>
+<!ATTLIST fechainicio anio CDATA #FIXED "2016">
+<!ELEMENT alumno (dni)>
+<!ATTLIST alumno mayor_edad CDATA #IMPLIED>
+<!ELEMENT dni (#PCDATA)>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="02.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+<person>
+    <name> John </name>
+    <age> 25 </age>
+    <city> New York </city>
+    <direccion>
+        <calle>Severiana</calle>
+        <provincia>Badajoz</provincia>
+        <cp>06300</cp>
+    </direccion>
+</person>

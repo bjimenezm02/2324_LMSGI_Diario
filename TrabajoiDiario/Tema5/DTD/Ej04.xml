@@ -1,0 +1,13 @@
+<!DOCTYPE curso SYSTEM "Ej04.dtd">
+
+<curso>
+    <codigo></codigo>
+    <fechainicio dia="" mes="" anio= "2016"></fechainicio>
+    <alumno mayor_edad="">
+        <dni></dni>
+    </alumno>
+</curso>
+
+   
+   
+    

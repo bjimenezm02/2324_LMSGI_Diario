@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE programme SYSTEM "Ej08v1.dtd">
+
+<programme>
+    <degree></degree>
+    <year></year>
+    <results>
+        <distinction>
+            <name></name>
+        </distinction>
+        <merit>
+            <name></name>
+        </merit>
+        <pass>
+            <name></name>
+        </pass>
+        <fail>
+            <name></name>
+        </fail>
+    </results>
+</programme>

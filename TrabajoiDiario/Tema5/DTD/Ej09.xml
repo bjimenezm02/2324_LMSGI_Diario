@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE partidos SYSTEM "Ej09.dtd" [
+
+]>
+
+<partidos>
+    <partido>
+        <jornada>  </jornada>
+        <equipo_local id = "">
+            <nombre>  </nombre>
+            <entrenador>  </entrenador>
+            <jugadores>
+                <jugador n_camiseta = " ">
+                    <nombre>  </nombre>
+                    <posicion>  </posicion>
+                    <n_tarjetas>
+                        <amarillas></amarillas>
+                        <rojas></rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = " ">
+                    <nombre>  </nombre>
+                    <posicion>  </posicion>
+                    <n_tarjetas>
+                        <amarillas>  </amarillas>
+                        <rojas>  </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = " ">
+                    <nombre>  </nombre>
+                    <posicion>  </posicion>
+                    <n_tarjetas>
+                        <amarillas>  </amarillas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = " ">
+                    <nombre>  </nombre>
+                    <posicion>  </posicion>
+                    <n_tarjetas>
+                        <rojas>  </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = " ">
+                    <nombre>  </nombre>
+                    <posicion>  </posicion>
+                    <n_tarjetas>
+                        <amarillas>  </amarillas>
+                        <rojas>  </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = " ">
+                    <nombre>  </nombre>
+                    <posicion>  </posicion>
+                    <n_tarjetas>
+                        <amarillas>  </amarillas>
+                        <rojas>  </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = " ">
+                    <nombre>  </nombre>
+                    <posicion>  </posicion>
+                    <n_tarjetas>
+                        <amarillas>  </amarillas>
+                        <rojas>  </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = " ">
+                    <nombre>  </nombre>
+                    <posicion>  </posicion>
+                    <n_tarjetas>
+                        <amarillas>  </amarillas>
+                        <rojas>  </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = " ">
+                    <nombre>  </nombre>
+                    <posicion>  </posicion>
+                    <n_tarjetas>
+                        <amarillas>  </amarillas>
+                        <rojas>  </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = " ">
+                    <nombre>  </nombre>
+                    <posicion>  </posicion>
+                    <n_tarjetas>
+                        <amarillas>  </amarillas>
+                        <rojas>  </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = " ">
+                    <nombre>  </nombre>
+                    <posicion>  </posicion>
+                    <n_tarjetas>
+                        <amarillas>  </amarillas>
+                        <rojas>  </rojas>
+                    </n_tarjetas>
+                </jugador>
+            </jugadores>
+        </equipo_local>
+        <equipo_visitante id = "">
+            <nombre>  </nombre>
+            <entrenador>  </entrenador>
+            <jugadores>
+                <jugador n_camiseta = " ">
+                    <nombre>  </nombre>
+                    <posicion>  </posicion>
+                    <n_tarjetas>
+                        <amarillas>  </amarillas>
+                        <rojas>  </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = " ">
+                    <nombre>  </nombre>
+                    <posicion>  </posicion>
+                    <n_tarjetas>
+                        <amarillas>  </amarillas>
+                        <rojas>  </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = " ">
+                    <nombre>  </nombre>
+                    <posicion>  </posicion>
+                    <n_tarjetas>
+                        <amarillas>  </amarillas>
+                        <rojas>  </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = " ">
+                    <nombre>  </nombre>
+                    <posicion>  </posicion>
+                    <n_tarjetas>
+                        <amarillas>  </amarillas>
+                        <rojas>  </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = " ">
+                    <nombre>  </nombre>
+                    <posicion>  </posicion>
+                    <n_tarjetas>
+                        <amarillas>  </amarillas>
+                        <rojas>  </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = " ">
+                    <nombre>  </nombre>
+                    <posicion>  </posicion>
+                    <n_tarjetas>
+                        <amarillas>  </amarillas>
+                        <rojas>  </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = " ">
+                    <nombre>  </nombre>
+                    <posicion>  </posicion>
+                    <n_tarjetas>
+                        <amarillas>  </amarillas>
+                        <rojas>  </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = " ">
+                    <nombre>  </nombre>
+                    <posicion>  </posicion>
+                    <n_tarjetas>
+                        <amarillas>  </amarillas>
+                        <rojas>  </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = " ">
+                    <nombre>  </nombre>
+                    <posicion>  </posicion>
+                    <n_tarjetas>
+                        <amarillas>  </amarillas>
+                        <rojas>  </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = " ">
+                    <nombre>  </nombre>
+                    <posicion>  </posicion>
+                    <n_tarjetas>
+                        <amarillas>  </amarillas>
+                        <rojas>  </rojas>
+                    </n_tarjetas>
+                </jugador>
+                <jugador n_camiseta = " ">
+                    <nombre>  </nombre>
+                    <posicion>  </posicion>
+                    <n_tarjetas>
+                        <amarillas>  </amarillas>
+                        <rojas>  </rojas>
+                    </n_tarjetas>
+                </jugador>
+            </jugadores>
+        </equipo_visitante>
+        <goles>
+            <gol nombre = "">
+                <id_equipo>   </id_equipo>
+                <penalty>  </penalty>
+            </gol>
+        </goles>
+    </partido>
+</partidos>

@@ -1,0 +1,21 @@
+<!ELEMENT partidos (partido)+>
+<!ELEMENT partido (jornada+, equipo_local, equipo_visitante, goles*)>
+<!ELEMENT jornada (#PCDATA)>    
+<!ELEMENT equipo_local (nombre, entrenador, jugadores)>
+<!ATTLIST equipo_local id ID #REQUIRED> 
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT entrenador (#PCDATA)>
+<!ELEMENT jugadores (jugador)+>
+<!ELEMENT jugador (nombre, posicion, n_tarjetas)>
+<!ATTLIST jugador n_camiseta ID #REQUIRED>
+<!ELEMENT posicion (#PCDATA)>
+<!ELEMENT n_tarjetas (rojas*, amarillas*)*>
+<!ELEMENT rojas (#PCDATA)>  
+<!ELEMENT amarillas (#PCDATA)>
+<!ELEMENT equipo_visitante (nombre, entrenador, jugadores+)>
+<!ATTLIST equipo_visitante id ID #REQUIRED>
+<!ELEMENT goles (gol)*>
+<!ELEMENT gol (id_equipo, penalty*)>
+<!ATTLIST gol nombre IDREF #REQUIRED>
+<!ELEMENT id_equipo (IDREF)>
+<!ELEMENT penalty (#PCDATA)>

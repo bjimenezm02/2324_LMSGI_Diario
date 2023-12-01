@@ -1,0 +1,11 @@
+
+
+<!ELEMENT programme     (degree, year, results)>
+<!ELEMENT degree        (#PCDATA)>
+<!ELEMENT year          (#PCDATA)>
+<!ELEMENT results       (distinction*, merit*, pass*, fail*)>
+<!ELEMENT distinction   (name*)>
+<!ELEMENT merit         (name*)>
+<!ELEMENT pass          (name*)>
+<!ELEMENT fail          (name*)>
+<!ELEMENT name          (#PCDATA)*>
