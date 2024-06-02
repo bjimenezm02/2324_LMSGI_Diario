@@ -19,6 +19,8 @@ Todas ellas tienen un pie de página con los enlaces a las redes sociales de est
     font-family3: Poetsen, system-ui,sans-serif;
 
 - `Despliegue`:
+  ##### URL: h
+  ttps://github.com/bjimenezm02/2324_LMSGI_Diario/tree/main/PaginaWeb
 
 - `Fuentes/Recursos utilizados`:
     Todas las imágenes utilizadas, los testimonios y los demás datos han sido proporcionados por la misma empresa. Esto me ha facilitado bastante la creación de la página.
